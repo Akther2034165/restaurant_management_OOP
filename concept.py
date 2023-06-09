@@ -1,7 +1,7 @@
 """
 classes
 1. User : abstract base class
-2. Custer (User)
+2. Customer (User)
 3. Employee (User)
 4. Chef(Employee)
 5. Server(Employee)
